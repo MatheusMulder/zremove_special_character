@@ -1,1 +1,1 @@
-# zremove_special_character
+# Useful for old SAP systems
